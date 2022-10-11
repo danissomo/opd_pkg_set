@@ -1,0 +1,9 @@
+[submodule "communication_msgs"]
+	path = communication_msgs
+	url = https://github.com/linukc/communication_msgs.git
+[submodule "yolo_handle_keypoints"]
+	path = yolo_handle_keypoints
+	url = git@github.com:danissomo/yolo_handle_keypoints.git
+[submodule "door_open"]
+	path = door_open
+	url = git@github.com:danissomo/door_open.git
