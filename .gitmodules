@@ -7,3 +7,6 @@
 [submodule "door_open"]
 	path = door_open
 	url = git@github.com:danissomo/door_open.git
+[submodule "geometry2"]
+	path = geometry2
+	url = https://github.com/ros/geometry2
